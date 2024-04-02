@@ -10,7 +10,7 @@
         "download_url": "https://example.com/plugins/another-plugin/another-plugin.zip"
     },
      "wp-manage-people": {
-        "version": "2.3.2",
+        "version": "2.3.3",
         "plugin_url": "https://example.com/plugins/another-plugin",
         "download_url": "https://example.com/plugins/another-plugin/another-plugin.zip"
     }
