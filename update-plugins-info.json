@@ -1,0 +1,12 @@
+{
+    "artcloud-blocks": {
+        "version": "1.4.7",
+        "plugin_url": "https://example.com/plugins/artcloud-blocks",
+        "download_url": "https://example.com/plugins/artcloud-blocks/artcloud-blocks.zip"
+    },
+    "artcloud-event": {
+        "version": "1.2.3",
+        "plugin_url": "https://example.com/plugins/another-plugin",
+        "download_url": "https://example.com/plugins/another-plugin/another-plugin.zip"
+    }
+}
